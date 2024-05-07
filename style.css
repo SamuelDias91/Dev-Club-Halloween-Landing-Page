@@ -232,6 +232,7 @@ h2 {
 
     section {
         flex-direction: column;
+        height: 73vh;
     }
 
     .container-left {
@@ -252,5 +253,9 @@ h2 {
     .container-right {
         width: 100%;
         text-align: center;
+    }
+
+    .container-right-info{
+        display: none;
     }
 }
