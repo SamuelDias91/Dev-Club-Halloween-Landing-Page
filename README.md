@@ -7,4 +7,4 @@ Projeto criado usando as tecnologias:
 
 <img src="https://github.com/SamuelDias91/Dev-Club-Halloween-Landing-Page/blob/master/assets/Halloween-desktop.png?raw=true" />
 
-<img src="https://github.com/SamuelDias91/Dev-Club-Halloween-Landing-Page/blob/master/assets/Halloween-mobile.png?raw=true" />
+<img src="https://github.com/SamuelDias91/Dev-Club-Halloween-Landing-Page/blob/master/assets/Halloween-mobile.png?raw=true" width=750px />
